@@ -42,5 +42,14 @@ Based on the above findings, there is a possible correlations between student co
 ![Top_bottom_five](https://github.com/lina2285/School_Distict_Analysis/blob/main/top_bottom_five.png)
 
 Average scores by grade level
-* Based on the average score comparisons, it seems that Cabreara High School and Griffin High School have the highest grade averages. 
+* Based on the average score comparisons, it seems that Cabreara High School and Griffin High School have the highest grade averages for both math and reading. 
 
+![avg_math_reading_bygrade](https://github.com/lina2285/School_Distict_Analysis/blob/main/avg_math_reading_bygrade.png)
+
+The scores by school spending per student
+
+
+The scores by school size
+
+
+The scores by school type
