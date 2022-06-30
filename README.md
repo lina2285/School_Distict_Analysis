@@ -19,3 +19,6 @@ Differences:
 * Passing reading percentage went from 86% to 85.7%
 
 based on the finding of deliverable 2, there is not enough infomation to conclude or confirm that there was academic dishonesty.  The differences in percentage are very close. 
+
+![PyCitySchools_without_tsh_ninth](https://github.com/lina2285/School_Distict_Analysis/blob/main/PyCitySchools_without_tsh_ninth.png)
+![PyCitySchools_inclusive_of_all](https://github.com/lina2285/School_Distict_Analysis/blob/main/PyCitySchools_inclusive_of_all.png)
