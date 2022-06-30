@@ -25,6 +25,28 @@ based on the finding of deliverable 2, there is not enough infomation to conclud
 
 The top five and bottom five
 
+ 
+
+![Top_bottom_five](https://github.com/lina2285/School_Distict_Analysis/blob/main/top_bottom_five.png)
+
+Average scores by grade level
+* Based on the average score comparisons, it seems that Cabreara High School and Griffin High School have the highest grade averages for both math and reading. 
+
+![avg_math_reading_bygrade](https://github.com/lina2285/School_Distict_Analysis/blob/main/avg_math_reading_bygrade.png)
+
+The scores by school spending per student
+![spending_ranges_summary](https://github.com/lina2285/School_Distict_Analysis/blob/main/spending_ranges_summary.png)
+
+The scores by school size
+![scores_by_school_size](https://github.com/lina2285/School_Distict_Analysis/blob/main/scores_by_school_size.png)
+
+The scores by school type
+![scores_by_school_type](https://github.com/lina2285/School_Distict_Analysis/blob/main/scores_by_school_type.png)
+
+###Deliverable 3
+
+Based on the findings, there is a possible correlations between student count and student grades.
+
 * The top five schools had an overall passing percentage between 90% and 91% 
 * Per student budget between $578 and $638. 
 * Student count: 
@@ -37,19 +59,11 @@ The top five and bottom five
     * Highest: 4761
     * Lowest: 2949
 
-Based on the above findings, there is a possible correlations between student count and student grades. 
+The comparison on average scores by school size, also show that the large schools have a much lower passing percentage than the medium and small schools. 
 
-![Top_bottom_five](https://github.com/lina2285/School_Distict_Analysis/blob/main/top_bottom_five.png)
+* the Large schools that consist of 2000 - 5000 students, have an overall passing of 58%
+* The Medium size (1000-1999) have 91% passing 
+* The Small size (<1000) have a 90% passing
 
-Average scores by grade level
-* Based on the average score comparisons, it seems that Cabreara High School and Griffin High School have the highest grade averages for both math and reading. 
-
-![avg_math_reading_bygrade](https://github.com/lina2285/School_Distict_Analysis/blob/main/avg_math_reading_bygrade.png)
-
-The scores by school spending per student
-
-
-The scores by school size
-
-
-The scores by school type
+surprisingly, when comparing spending, the schools with the least spending have a higher passing %
+![spending_ranges_summary](https://github.com/lina2285/School_Distict_Analysis/blob/main/spending_ranges_summary.png)
