@@ -22,3 +22,19 @@ based on the finding of deliverable 2, there is not enough infomation to conclud
 
 ![PyCitySchools_without_tsh_ninth](https://github.com/lina2285/School_Distict_Analysis/blob/main/PyCitySchools_without_tsh_ninth.png)
 ![PyCitySchools_inclusive_of_all](https://github.com/lina2285/School_Distict_Analysis/blob/main/PyCitySchools_inclusive_of_all.png)
+
+The top five and bottom five
+
+* The top five schools had an overall passing percentage between 90% and 91% 
+* Per student budget between $578 and $638. 
+* Student count: 
+    * Highest: 2283
+    * Lowest: 962
+
+* The bottom five schools had an overall passing percentage between 52% and 53%
+* Per student budget between $637 and $655
+* Student Count:
+    * Highest: 4761
+    * Lowest: 2949
+
+Based on the above findings, there is a possible correlations between student count and student grades. 
